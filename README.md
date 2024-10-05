@@ -102,5 +102,5 @@ We love collaboration! If you want to contribute to this project, please feel fr
 ## 🐑 Shoutout to All Farmers
 > “Farmers are the backbone of society. Let’s support them with technology.” 🧑‍🌾
 
-![Thank You Meme](https://www.bing.com/images/create/panda-saying-thankyou/1-6700d27b9b1b47839db29a412e7ec234?id=5R9L0a6GXApbmnKpI0kbug%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG1.ITgbG2n1RGi5SzEoojLa&edit=1&clientName=BING%20CHAT&sappdirectload=1&showselective=1&lng=en-US&skey=YD2zvWQoIO5l6RfvpcBosyvbobDjehxwwKCXCtzB_Vc&FORM=SYDBIC) 
+![Thank You](panda.jpeg) 
 
