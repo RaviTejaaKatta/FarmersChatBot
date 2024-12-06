@@ -101,12 +101,12 @@ We love collaboration! If you want to contribute to this project, please feel fr
 
 ## 🐑 Shoutout to All Farmers
 > “Farmers are the backbone of society. Let’s support them with technology.” 🧑‍🌾
->
-> ## NOTE!!!! ##
-> there is an issue with model folder
-> I'm still a fresher, if you find any solution for uploading files larger than 25 MB just let me know
-> my model folder is of 3 Giga Bytes
-> So the solution for this is just run the ipynb file and the model folder will be automatically created 
+
+## NOTE!!!! ##
+- there is an issue with model folder. 
+- I'm still a fresher, if you find any solution for uploading files larger than 25 MB just let me know
+- my model folder is of 3 Giga Bytes
+- So the solution for this is just run the ipynb file and the model folder will be automatically created 
 
 ![Thank You](panda.jpeg) 
 
