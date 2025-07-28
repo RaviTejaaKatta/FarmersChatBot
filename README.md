@@ -108,6 +108,9 @@ We love collaboration! If you want to contribute to this project, please feel fr
 - my model folder is of 3 Giga Bytes
 - So the solution for this is just run the ipynb file and the model folder will be automatically created 
 
+## collaborators ##
+A special thank you to all the amazing people who have contributed to this project:
+Made with [G. Pavan Kumar](https://github.com/Gudurupavankumarreddy).
 ![Thank You](panda.jpeg) 
 
 
